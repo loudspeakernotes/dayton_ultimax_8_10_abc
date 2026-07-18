@@ -25,6 +25,8 @@ OpenSCAD code for generating the model of the enclosure is in [ultimax_8_10_abc.
 
 This enclosure is designed for the frequency range of 27 Hz to 80 Hz
 
+![Build](build.jpg)
+
 ![Enclosure overview](ultimax_8_10_abc_openscad.jpg)
 
 ## Panel sizes
